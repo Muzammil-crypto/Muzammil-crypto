@@ -4,7 +4,7 @@
 
 <!-- [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr) -->
 
-## I'm a Student, Developer, and Anime Watcher!!
+## I'm a Student, Developer, and Singler!!
 
 - 🔭 Playing around with laravel and machine learning!
 - 🌱 I’m currently learning everything 🤣
@@ -86,7 +86,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="MSafyan's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=MSafyan&show_icons=true&hide_border=true" />
+  <img align="left" alt="Muzammil-crypto's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Muzammil-crypto&show_icons=true&hide_border=true" />
 
 </details>
 
