@@ -94,3 +94,10 @@
 [website]: https://muzammilportfolio.azurewebsites.net/
 [facebook]: https://www.facebook.com/muzamil.rafiq.733
 [instagram]: https://www.instagram.com/deltarebel_/
+[youtube]: https://youtube.com/codeSTACKr
+[instagram]: https://instagram.com/safyan_xd
+[linkedin]: https://linkedin.com/in/codeSTACKr
+[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
+[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
+[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
+[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
